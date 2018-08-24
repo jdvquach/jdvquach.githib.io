@@ -2,3 +2,4 @@ name: John Quach - Web Developer
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 permalink: /about
+theme: jekyll-theme-cayman
